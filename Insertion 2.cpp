@@ -1,4 +1,4 @@
-//INSERTION
+//INSERTION IN SORTED ARRAY
 #include<iostream>
 #include<algorithm>
 using namespace std;
