@@ -1,4 +1,4 @@
-//MISSING NUMBER
+//FIND MISSING NUMBER
 #include<iostream>
 using namespace std;
 int main()
