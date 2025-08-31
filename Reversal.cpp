@@ -1,4 +1,4 @@
-//REVERSAL 
+//REVERSAL OF ARRAY
 #include<iostream>
 using namespace std;
 int main()
