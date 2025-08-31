@@ -1,4 +1,4 @@
-//Element Analysis
+//Element Analysis (using buffer array)
 #include<iostream>
 using namespace std;
 int main()
