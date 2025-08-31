@@ -1,4 +1,4 @@
-//MERGING OF TWO SORTED ARRAYS
+//MERGING OF TWO SORTED ARRAYS (OPTIMIZED)
 
 #include<iostream>
 using namespace std;
