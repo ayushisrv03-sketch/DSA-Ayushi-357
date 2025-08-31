@@ -1,4 +1,4 @@
-//DELETION
+//DELETION OF ELEMENT
 #include<iostream>
 using namespace std;
 int main()
